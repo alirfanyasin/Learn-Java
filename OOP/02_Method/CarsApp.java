@@ -11,7 +11,7 @@ public class CarsApp {
     System.out.println(car.name);
     System.out.println(car.color);
     System.out.println(car.speed);
-    car.specification("Japan");
+    car.specification("Japan"); // calling method
 
 
   }
